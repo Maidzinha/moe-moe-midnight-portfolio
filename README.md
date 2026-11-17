@@ -22,10 +22,15 @@ ainda acham que é a noite da inauguração, e que você é o cliente mais espec
 </p>
 
 > **Projeto de portfólio.** Este repositório mostra o jogo: artes, telas e o que foi feito.
-> O código-fonte e o jogo em si não estão aqui.
+> O código-fonte não está aqui.
+
+<p align="center">
+  <a href="https://github.com/Maidzinha/moe-moe-midnight-portfolio/releases/latest"><img src="https://img.shields.io/badge/BAIXAR%20PARA%20ANDROID-APK-ff5fa2?style=for-the-badge&logo=android&logoColor=white" alt="Baixar para Android"></a>
+</p>
 
 ## Sumário
 
+- [Jogar no Android](#jogar-no-android)
 - [A história](#a-história)
 - [Telas do jogo](#telas-do-jogo)
 - [As androides](#as-androides)
@@ -33,6 +38,14 @@ ainda acham que é a noite da inauguração, e que você é o cliente mais espec
 - [O que eu fiz](#o-que-eu-fiz)
 - [Galeria](#galeria)
 - [Créditos](#créditos)
+
+## Jogar no Android
+
+1. No celular, baixe `MoeMoeMidnight-v1.0.0-android.apk` em [**Releases**](https://github.com/Maidzinha/moe-moe-midnight-portfolio/releases/latest).
+2. Toque no arquivo e permita **"Instalar apps desconhecidos"** quando o Android pedir.
+3. Abra o jogo: ele roda deitado, em tela cheia. Toque no lado da tela para olhar para aquele lado.
+
+Precisa de Android 6 ou mais novo. O jogo é gratuito.
 
 ## A história
 
