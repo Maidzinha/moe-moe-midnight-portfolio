@@ -8,7 +8,7 @@ Sobreviva das **00:00 às 06:00** vigiando as câmeras de um café cujas garçon
 ainda acham que é a noite da inauguração, e que você é o cliente mais especial de todos.
 
 ![Versão](https://img.shields.io/badge/vers%C3%A3o-1.0.0-ff5fa2)
-![Plataforma](https://img.shields.io/badge/plataforma-Windows-0078D6?logo=windows&logoColor=white)
+![Plataforma](https://img.shields.io/badge/plataforma-Windows%20%7C%20Android-0078D6?logo=windows&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-45-47848F?logo=electron&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-puro-F7DF1E?logo=javascript&logoColor=black)
 ![Gênero](https://img.shields.io/badge/g%C3%AAnero-survival%20horror-8a1538)
@@ -25,12 +25,13 @@ ainda acham que é a noite da inauguração, e que você é o cliente mais espec
 > O código-fonte não está aqui.
 
 <p align="center">
+  <a href="https://maidzinha.itch.io/moe-moe-midnight"><img src="https://img.shields.io/badge/JOGAR%20NO%20ITCH.IO-PC-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Jogar no itch.io"></a>
   <a href="https://github.com/Maidzinha/moe-moe-midnight-portfolio/releases/latest"><img src="https://img.shields.io/badge/BAIXAR%20PARA%20ANDROID-APK-ff5fa2?style=for-the-badge&logo=android&logoColor=white" alt="Baixar para Android"></a>
 </p>
 
 ## Sumário
 
-- [Jogar no Android](#jogar-no-android)
+- [Onde jogar](#onde-jogar)
 - [A história](#a-história)
 - [Telas do jogo](#telas-do-jogo)
 - [As androides](#as-androides)
@@ -39,7 +40,12 @@ ainda acham que é a noite da inauguração, e que você é o cliente mais espec
 - [Galeria](#galeria)
 - [Créditos](#créditos)
 
-## Jogar no Android
+## Onde jogar
+
+- **PC (Windows):** de graça no [**itch.io**](https://maidzinha.itch.io/moe-moe-midnight)
+- **Android:** o APK fica em [**Releases**](https://github.com/Maidzinha/moe-moe-midnight-portfolio/releases/latest)
+
+### Instalar no Android
 
 1. No celular, baixe `MoeMoeMidnight-v1.0.0-android.apk` em [**Releases**](https://github.com/Maidzinha/moe-moe-midnight-portfolio/releases/latest).
 2. Toque no arquivo e permita **"Instalar apps desconhecidos"** quando o Android pedir.
