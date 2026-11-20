@@ -27,6 +27,7 @@ ainda acham que é a noite da inauguração, e que você é o cliente mais espec
 <p align="center">
   <a href="https://maidzinha.itch.io/moe-moe-midnight"><img src="https://img.shields.io/badge/JOGAR%20NO%20ITCH.IO-PC-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Jogar no itch.io"></a>
   <a href="https://github.com/Maidzinha/moe-moe-midnight-portfolio/releases/latest"><img src="https://img.shields.io/badge/BAIXAR%20PARA%20ANDROID-APK-ff5fa2?style=for-the-badge&logo=android&logoColor=white" alt="Baixar para Android"></a>
+  <a href="https://github.com/Maidzinha/moe-moe-midnight-portfolio/releases/tag/v1.0.0-teste"><img src="https://img.shields.io/badge/VERS%C3%83O%20DE%20TESTE-PC-8a1538?style=for-the-badge&logo=windows&logoColor=white" alt="Versão de teste para PC"></a>
 </p>
 
 ## Sumário
@@ -44,6 +45,8 @@ ainda acham que é a noite da inauguração, e que você é o cliente mais espec
 
 - **PC (Windows):** de graça no [**itch.io**](https://maidzinha.itch.io/moe-moe-midnight)
 - **Android:** o APK fica em [**Releases**](https://github.com/Maidzinha/moe-moe-midnight-portfolio/releases/latest)
+- **Versão de teste (Windows):** [**MoeMoeMidnight-v1.0.0-teste.exe**](https://github.com/Maidzinha/moe-moe-midnight-portfolio/releases/tag/v1.0.0-teste), com o botão **PULAR NOITE**
+  e atalhos para testar qualquer parte do jogo (`N` pula a noite, `T` avança 1 hora). É só baixar e abrir.
 
 ### Instalar no Android
 
